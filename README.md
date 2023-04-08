@@ -19,7 +19,7 @@ In addition, the first column of the data represents the labels of the images as
 We expect to achieve accuracy of 90% on the "Dataset test images" using the network we will create in the project.
 
 ## Additional Goal
-In addition to the classification of the MNIST data itself, our goal in this project is to exemine the classification accuracy for images that were taken from our personal phones. Those images will have a different properties, due to the type of the camera, initial resolution and also the enviroment where the image were taken, thus we will expect to get lower accuracy for those king of images.
+In addition to the classification of the MNIST data itself, our goal in this project is to exemine the classification accuracy for images that were taken from our personal phones. Those images will have a different properties, due to the type of the camera, initial resolution and also the enviroment where the image were taken, thus we will expect to get lower accuracy for those kind of images.
 
 ## Different models compared in terms of their performances
 1) Two different implementations of classical Convolutional Network
