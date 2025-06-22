@@ -1,4 +1,4 @@
-# American_Sign_Language_Classification
+# American Sign Language Classification
 ## General Background and Goals
 Sign languages are visual languages that use hand gestures, facial expressions, and body language to convey some meaning. They are used as a means of communication by deaf and hard-of-hearing individuals in many countries around the world. Unlike spoken languages, sign languages are not based on a particular spoken language and are unique to the deaf communities in which they are used.
 
